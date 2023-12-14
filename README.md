@@ -19,7 +19,6 @@ you can go to orders ,place an order, your purchase and make transaction but til
 ![image](https://user-images.githubusercontent.com/61314816/182150108-6cbe38c3-028b-46f3-bc00-9f275873157c.png)
 ![image](https://user-images.githubusercontent.com/61314816/182150188-432d9e31-8a2a-4f9c-a6af-7076268a8d9b.png)
 ![image](https://user-images.githubusercontent.com/61314816/182150380-b5fc3e96-1719-4d89-85aa-227632421db3.png)
-![image](https://user-images.githubusercontent.com/61314816/182150423-fda0ee99-4f78-4e27-923b-83b5dee55d3a.png)
 You can see your personal information and edit them.
 ![image](https://user-images.githubusercontent.com/61314816/182150567-545bd9fa-df80-4a09-8bf2-abfa480d33fc.png)
 ![image](https://user-images.githubusercontent.com/61314816/182150601-9eea3e79-e190-4019-9412-343f2cbbf86d.png)
